@@ -24,6 +24,11 @@ A standout feature of the app is its intelligent theme engine. The background th
 
 To enhance the interactive experience, tsParticles.js is used to display weather-based particle animations in the background. For instance, if the weather description includes terms like "snow", "rain", or "cloud", the particle system dynamically changes its shape and movement style to represent snowflakes, raindrops, or drifting clouds. These particles float subtly in the background and respond to user interaction (like mouse hover), creating a responsive visual environment.
 
+output
+
+<img width="1919" height="1018" alt="Image" src="https://github.com/user-attachments/assets/7e0ad57e-e106-4b89-989b-370b3f1025cf" />
+
+
 SkyVibe also employs Tailwind CSS for styling and layout, allowing for a clean, responsive design with minimal custom CSS. It uses Google Fonts (Orbitron) and Animate.css to apply stylish fonts and entry animations to key UI elements like headers and weather data fields. These animations make the interface lively and engaging without being distracting.
 
 All of these features are encapsulated in a single-page application (SPA) that loads quickly and is fully responsive across devices. From its smooth transitions and live data fetching to background particle effects and auto-theming, SkyVibe is not just a weather app—it’s an experience. Whether used on a desktop or mobile device, SkyVibe offers users an aesthetically pleasing and informative look at the weather, blending design and functionality in a modern, accessible web application.
